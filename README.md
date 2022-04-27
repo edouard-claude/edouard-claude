@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Edouard CLAUDE</h1>
 <h3 align="center">A passionate Api architect from Réunion 🇷🇪 (FRA)</h3>
 
-- 🦄 I’m currently working at [Squirrel](https://www.squirrel.fr/)
+- 🦄 I’m currently working at [Squirrel](https://www.squirrel.fr/?utm_medium=referral&utm_source=github )
 
-- 🌱 I’m currently learning **API Design pattern, GraphQL, Auth Flow**
+- 🌱 I’m currently learning **API Design pattern, GraphQL, TDD, SDD**
 
 - 💬 Ask me about **Golang, SQL, GraphQL**
 
