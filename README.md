@@ -14,8 +14,8 @@ I help businesses turn AI from proof-of-concept into production reality.
 ### Current roles
 
 - **CTO & Partner** @ [Squirrel](https://www.squirrel.fr) — Digital agency, 150+ complex projects delivered
-- **Co-founder** @ [Fidelatoo](https://fidelatoo.com) — Loyalty SaaS, 160k+ monthly users, 6k+ merchants
-- **Co-founder** @ [Noula](https://noula.app) — Mobility platform WhatsApp client
+- **Co-founder** @ [Fidelatoo](https://fidelatoo.fr) — Loyalty SaaS, 160k+ monthly users, 6k+ merchants
+- **Co-founder** @ [Noula](https://nou-la.com) — Mobility platform WhatsApp client
 
 ### AI in production
 
