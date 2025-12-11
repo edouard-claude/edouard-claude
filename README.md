@@ -1,36 +1,35 @@
-<h1 align="center">Hi 👋, I'm Edouard CLAUDE</h1>
-<h3 align="center">CTO & Software Architect — building resilient systems for 15+ years</h3>
+<h1 align="center">Edouard CLAUDE</h1>
+<h3 align="center">AI Deployment Strategist · CTO · Building production AI systems</h3>
 
-I’ve been writing code long enough to have lived through the **eras of the web**:
+I help businesses turn AI from proof-of-concept into production reality.
 
-- **The AI-driven present** 🤖 — LLMs, Agents 🤝, RAG pipelines 🧠📚, MCP servers & multi-agent orchestration 🧰  
-- **The real-time wave** 📡 — WebSockets, SSE, event-driven backends ⚙️  
-- **The front-end revolutions** ⚛️🔥 — React, Next.js, Svelte, PWA 📱  
-- **The rise of GraphQL** 🧬 — contracts first, flexible backends, federation  
-- **The API awakening** 🔌 — REST & OpenAPI 📜, learning to separate concerns  
-- **The LAMP age** 🔦 — PHP monoliths, hand-coded logic, manuals & books on my desk 📚  
+**15+ years** shipping software — from LAMP monoliths to LLM-powered agents. Now focused on **deploying AI at scale**: RAG pipelines, MCP servers, multi-agent orchestration, and enterprise integrations.
 
-From building **e-commerce platforms** 🛒 and **CRP/ERP systems** 🏢 to architecting **multi-tenant SaaS** ☁️ with **event buses** 🚌, **MCP servers** 🧰, and **secure PostgreSQL** 🐘🛡️, I’ve seen (and shipped) every layer of the stack evolve — and I still enjoy getting my hands dirty.
+### What I do
 
-> Once I coded everything by hand 🛠️. Then StackOverflow became my daily partner 💡.  
-> Now, LLMs and Agents give me the leverage to **bootstrap and deliver complete, production-grade systems** faster than ever ⚡🚀🏭.  
+- **AI Strategy & Deployment** — Guiding teams from experimentation to production-grade AI systems
+- **Architecture** — Event-driven backends, real-time pipelines, multi-tenant SaaS
+- **Hands-on Engineering** — Go, PostgreSQL, NATS, GraphQL, REST APIs
 
-Currently, I’m CTO & partner at:  
-- [Squirrel](https://www.squirrel.fr/?utm_medium=referral&utm_source=github) — Digital agency, 50+ complex projects delivered 🧩  
-- [Fidelatoo](https://fidelatoo.com) — Merchant loyalty SaaS (160k+ monthly users, 6k+ businesses) 🎯  
-- [Noula](https://noula.app) — Mobility & community platform 🚐  
+### Current roles
 
-What I design and operate today:  
-- **APIs** (REST, GraphQL, event-sourced) 🧱  
-- **Event systems** (NATS, Kafka) 📬  
-- **Streaming** (SSE, WebSocket) 🌐  
-- **MCP servers & AI agents** (tool-oriented workflows) 🧠🔧  
-- **PostgreSQL** with RLS & SQLC 🐘🛡️  
-- **Real-time SaaS architectures** ⏱️  
+- **CTO & Partner** @ [Squirrel](https://www.squirrel.fr) — Digital agency, 150+ complex projects delivered
+- **Co-founder** @ [Fidelatoo](https://fidelatoo.com) — Loyalty SaaS, 160k+ monthly users, 6k+ merchants
+- **Co-founder** @ [Noula](https://noula.app) — Mobility platform WhatsApp client
 
-My philosophy is simple:  
-**Design with clarity, deliver with speed, scale with resilience.** ✨⚡🪨  
+### AI in production
+
+Building and deploying:
+- LLM-powered agents with tool-oriented workflows
+- RAG pipelines for enterprise knowledge retrieval
+- MCP servers for AI-to-system integration
+- Real-time AI streaming (SSE/WebSocket)
+
+### Philosophy
+
+Design with clarity. Deploy with speed. Scale with resilience.
 
 ---
 
-📫 Reach me at **edouard[arob]squirrel.fr** ✉️
+📍 La Réunion, France  
+📫 edouard[at]squirrel.fr
