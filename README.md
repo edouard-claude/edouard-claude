@@ -1,5 +1,5 @@
 <h1 align="center">Edouard CLAUDE</h1>
-<h3 align="center">AI Deployment Strategist · CTO · Building production AI systems</h3>
+<h3 align="center">AI Deployment Strategist • Tech Advisor • CTO Ext • Building production AI systems</h3>
 
 I help businesses turn AI from proof-of-concept into production reality.
 
