@@ -8,7 +8,7 @@ I help businesses turn AI from proof-of-concept into production reality.
 ### What I do
 
 - **AI Strategy & Deployment** — Guiding teams from experimentation to production-grade AI systems
-- **Architecture** — Event-driven backends, real-time pipelines, multi-tenant SaaS
+- **Architecture** — Event-driven, real-time pipelines, multi-tenant
 - **Hands-on Engineering** — Go, PostgreSQL, NATS, GraphQL, REST APIs
 
 ### Current roles
@@ -31,5 +31,5 @@ Design with clarity. Deploy with speed. Scale with resilience.
 
 ---
 
-📍 La Réunion, France  
-📫 edouard[at]squirrel.fr
+📍 La Réunion, France
+📫 hi[at]edouard.cl
