@@ -31,5 +31,5 @@ Design with clarity. Deploy with speed. Scale with resilience.
 
 ---
 
-📍 La Réunion, France
+📍 La Réunion, France <br/>
 📫 hi[at]edouard.cl
